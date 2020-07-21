@@ -18,3 +18,4 @@ AR_Museum/Logs/
 AR_Museum/Temp/
 AR_Museum/.vs/
 AR_Museum/obj/
+*.csproj
