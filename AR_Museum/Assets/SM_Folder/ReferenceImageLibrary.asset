@@ -19,8 +19,8 @@ MonoBehaviour:
       m_GuidLow: 5695821499204000515
       m_GuidHigh: 15913918302520469409
     m_SerializedTextureGuid:
-      m_GuidLow: 4185019988201872162
-      m_GuidHigh: 4490757530522344409
+      m_GuidLow: 2680844892010073941
+      m_GuidHigh: 15907306370624014425
     m_Size: {x: 1, y: 1}
     m_SpecifySize: 1
     m_Name: Daedongyeojido
@@ -29,8 +29,8 @@ MonoBehaviour:
       m_GuidLow: 5050175080368739130
       m_GuidHigh: 10245616461208925080
     m_SerializedTextureGuid:
-      m_GuidLow: 2361264730944612842
-      m_GuidHigh: 16686358730076718744
+      m_GuidLow: 14768474919027922495
+      m_GuidHigh: 12806412002187513131
     m_Size: {x: 1.503671, y: 1.8092299}
     m_SpecifySize: 1
     m_Name: Ssileum
@@ -39,8 +39,8 @@ MonoBehaviour:
       m_GuidLow: 5222243091619750091
       m_GuidHigh: 14005396820016297363
     m_SerializedTextureGuid:
-      m_GuidLow: 4824485905789912859
-      m_GuidHigh: 5690458363361368632
+      m_GuidLow: 11728607863708258150
+      m_GuidHigh: 2577778684252599771
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: DaboTower
