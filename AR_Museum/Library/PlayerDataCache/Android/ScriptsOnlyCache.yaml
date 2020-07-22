@@ -1,0 +1,2321 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp-Editor.dll:
+    - CraftingFREE.ReviewConfig
+    Assembly-CSharp.dll:
+    - Assets.MaterializeFX.Scripts.MfxController
+    - CFX_AutoDestructShuriken
+    - CamRotate
+    - GameManager
+    - IntroManager
+    - LookRotateCamera
+    - MainScene_UI
+    - ObjManager
+    - PositionsSelf
+    - SCManager
+    - StoneWorkMan_FSM
+    - WK_DabotopGame
+    - WK_RotateDabotop
+    - Wook_Game_Different
+    - WorkMan_FSM
+    - WorkPositon_Manager
+    - stamptest
+    - wook_STAMP_Manager
+    - wook_Ssirm_AudioPlay
+    - wook_Touch
+    Unity.Postprocessing.Runtime.dll:
+    - UnityEngine.Rendering.PostProcessing.AmbientOcclusion
+    - UnityEngine.Rendering.PostProcessing.Bloom
+    - UnityEngine.Rendering.PostProcessing.ColorGrading
+    - UnityEngine.Rendering.PostProcessing.PostProcessProfile
+    - UnityEngine.Rendering.PostProcessing.PostProcessResources
+    - UnityEngine.Rendering.PostProcessing.PostProcessVolume
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.XR.ARCore.Editor.dll:
+    - UnityEditor.XR.ARCore.ARCoreSettings
+    Unity.XR.ARCore.dll:
+    - UnityEngine.XR.ARCore.ARCoreLoader
+    Unity.XR.ARFoundation.dll:
+    - UnityEngine.XR.ARFoundation.ARCameraBackground
+    - UnityEngine.XR.ARFoundation.ARCameraManager
+    - UnityEngine.XR.ARFoundation.ARInputManager
+    - UnityEngine.XR.ARFoundation.ARRaycastManager
+    - UnityEngine.XR.ARFoundation.ARSession
+    - UnityEngine.XR.ARFoundation.ARSessionOrigin
+    - UnityEngine.XR.ARFoundation.ARTrackedImageManager
+    Unity.XR.ARSubsystems.dll:
+    - UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+    Unity.XR.Management.Editor.dll:
+    - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
+    Unity.XR.Management.dll:
+    - UnityEngine.XR.Management.XRGeneralSettings
+    - UnityEngine.XR.Management.XRManagerSettings
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.SpatialTracking.dll:
+    - UnityEngine.SpatialTracking.TrackedPoseDriver
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.GridLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Shadow
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/Rally_Folder/Rally_Scenes/Rally_GameScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11632}
+    - Class: 114
+      Script: {instanceID: 11772}
+    - Class: 114
+      Script: {instanceID: 12078}
+    - Class: 114
+      Script: {instanceID: 12208}
+    - Class: 114
+      Script: {instanceID: 12592}
+    - Class: 114
+      Script: {instanceID: 13190}
+    - Class: 114
+      Script: {instanceID: 13460}
+    - Class: 114
+      Script: {instanceID: 13644}
+    - Class: 114
+      Script: {instanceID: 13874}
+    - Class: 114
+      Script: {instanceID: 14036}
+    - Class: 114
+      Script: {instanceID: 14170}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    Assets/Rally_Folder/Rally_Scenes/Rally_Main_Scene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11262}
+    - Class: 114
+      Script: {instanceID: 11580}
+    - Class: 114
+      Script: {instanceID: 11674}
+    - Class: 114
+      Script: {instanceID: 12078}
+    - Class: 114
+      Script: {instanceID: 12208}
+    - Class: 114
+      Script: {instanceID: 12592}
+    - Class: 114
+      Script: {instanceID: 12694}
+    - Class: 114
+      Script: {instanceID: 12784}
+    - Class: 114
+      Script: {instanceID: 12866}
+    - Class: 114
+      Script: {instanceID: 13190}
+    - Class: 114
+      Script: {instanceID: 13460}
+    - Class: 114
+      Script: {instanceID: 13606}
+    - Class: 114
+      Script: {instanceID: 13644}
+    - Class: 114
+      Script: {instanceID: 13874}
+    - Class: 114
+      Script: {instanceID: 14036}
+    - Class: 114
+      Script: {instanceID: 14170}
+    - Class: 114
+      Script: {instanceID: 14228}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Rally_Folder/Rally_Scenes/Rally_MarkerCameraScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11262}
+    - Class: 114
+      Script: {instanceID: 11292}
+    - Class: 114
+      Script: {instanceID: 11350}
+    - Class: 114
+      Script: {instanceID: 11426}
+    - Class: 114
+      Script: {instanceID: 11506}
+    - Class: 114
+      Script: {instanceID: 11526}
+    - Class: 114
+      Script: {instanceID: 11580}
+    - Class: 114
+      Script: {instanceID: 11760}
+    - Class: 114
+      Script: {instanceID: 12078}
+    - Class: 114
+      Script: {instanceID: 12084}
+    - Class: 114
+      Script: {instanceID: 12164}
+    - Class: 114
+      Script: {instanceID: 12208}
+    - Class: 114
+      Script: {instanceID: 12422}
+    - Class: 114
+      Script: {instanceID: 12464}
+    - Class: 114
+      Script: {instanceID: 12510}
+    - Class: 114
+      Script: {instanceID: 12680}
+    - Class: 114
+      Script: {instanceID: 12784}
+    - Class: 114
+      Script: {instanceID: 12832}
+    - Class: 114
+      Script: {instanceID: 12866}
+    - Class: 114
+      Script: {instanceID: 13090}
+    - Class: 114
+      Script: {instanceID: 13190}
+    - Class: 114
+      Script: {instanceID: 13264}
+    - Class: 114
+      Script: {instanceID: 13460}
+    - Class: 114
+      Script: {instanceID: 13472}
+    - Class: 114
+      Script: {instanceID: 13606}
+    - Class: 114
+      Script: {instanceID: 13644}
+    - Class: 114
+      Script: {instanceID: 13666}
+    - Class: 114
+      Script: {instanceID: 13748}
+    - Class: 114
+      Script: {instanceID: 13870}
+    - Class: 114
+      Script: {instanceID: 13874}
+    - Class: 114
+      Script: {instanceID: 13960}
+    - Class: 114
+      Script: {instanceID: 13990}
+    - Class: 114
+      Script: {instanceID: 14036}
+    - Class: 114
+      Script: {instanceID: 14044}
+    - Class: 114
+      Script: {instanceID: 14088}
+    - Class: 114
+      Script: {instanceID: 14170}
+    - Class: 114
+      Script: {instanceID: 14210}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: a1f19ad47d3094e235f21b74dfc423a8
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessLayer
+  - hash:
+      serializedVersion: 2
+      Hash: 8fd88db12032bf41eca89e507b9aaa42
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: MailerController
+  - hash:
+      serializedVersion: 2
+      Hash: e4db0ddf42150a3b60bd39cf2bc3def2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_LightFlicker
+  - hash:
+      serializedVersion: 2
+      Hash: 2c3e30410f87c6fa9adb42b2d3704623
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LanguageDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: IgnoreBackgroundDataRestrictionsSettingsController
+  - hash:
+      serializedVersion: 2
+      Hash: 98292f7cc940256ce05f7d5b7632f231
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextToSpeechTest2
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: 726fcf7961cbb4108aa5be5e55b8c8bf
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ColorGrading
+  - hash:
+      serializedVersion: 2
+      Hash: b13de7a0a457cb8e026d4237dc1b5797
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: LensDistortion
+  - hash:
+      serializedVersion: 2
+      Hash: 671420ad2c33f1ddaf6d076461adf15a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_Demo_Translate
+  - hash:
+      serializedVersion: 2
+      Hash: 7ba10cde3e0b4cc473839d6f79b6517d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SendTextController
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 66dcdea313f511de95e3c26f6809bf86
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExternalStorageTest2
+  - hash:
+      serializedVersion: 2
+      Hash: 86a003ce618b2e3c607a266b5ad382a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AndroidSensorIntController
+  - hash:
+      serializedVersion: 2
+      Hash: 4ddd7d4fbef5e62c24734ef1f9b11efb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WorkMan_FSM
+  - hash:
+      serializedVersion: 2
+      Hash: bc960cb98c43cc10982bc468b609a6b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LongClickInput
+  - hash:
+      serializedVersion: 2
+      Hash: 7864a1aec2b493a93af9b5a70d139035
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AlphaNumericTextDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 9704ee4b552c7a7ca6c00db0748eacad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LinearAccelerationSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 244fa36120631e051c557129dd566e3a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: PinchToDistance
+  - hash:
+      serializedVersion: 2
+      Hash: 6e62ba304ac3e65e2dbcc2c08d96634e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextEditTest2
+  - hash:
+      serializedVersion: 2
+      Hash: 71f7f12b8d0f4fd73590db8bcb6d453c
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Bloom
+  - hash:
+      serializedVersion: 2
+      Hash: af93f9c42e90877a9ba31e37adfd900c
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: MotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 7352a37300e0ecd753b9ff61ecd438ea
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IKHands
+  - hash:
+      serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SampleInfo
+  - hash:
+      serializedVersion: 2
+      Hash: de2698ba05ef6c599641dfa46ac19686
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_ARManager
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 02493766ba0d073bd9e5d602a5878d4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: iTween
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8e17ed2789766b46a77a6f411c2aeb00
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DynamicTest
+  - hash:
+      serializedVersion: 2
+      Hash: 4551307f94cf89212d80c99ef8ada95e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ProgressImageFill
+  - hash:
+      serializedVersion: 2
+      Hash: 7f2ae8d449b2c3d78999dae76eda5d84
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: 383560982f6d9daf1ac252a9ce94fb01
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: HeartBeatController
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 306bd2850b32501a45a0d62002e9c272
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ToggleButton
+  - hash:
+      serializedVersion: 2
+      Hash: 98aa0a0c8ff2910eb12af89c7e0eb661
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRGeneralSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 60ad3250f4d0506804f1679a5e6ff586
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: HeartRateController
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 9b6303c7164a38e06044ec2036c18b6b
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARParticipantManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7f1b5e52dc9077bcb4a2868dbdfc49ae
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SmoothFollow3
+  - hash:
+      serializedVersion: 2
+      Hash: 23d454d4af6e386f00e52b2bd9272fb8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ProximitySensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 86a003ce618b2e3c607a266b5ad382a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AndroidSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Tutorial_MoveToItween
+  - hash:
+      serializedVersion: 2
+      Hash: f542c1afca5bb4022f91fdda19b8d622
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: DepthOfField
+  - hash:
+      serializedVersion: 2
+      Hash: 521285eee58c9f253bed0b5b0290b2d0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AndroidSettingsTest
+  - hash:
+      serializedVersion: 2
+      Hash: c1aa24dc179be0cb7c6d49f66fc0db8a
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARRaycastManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1289d946da0bd8dab6d27e246a81ebdc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Dabotop_Appear
+  - hash:
+      serializedVersion: 2
+      Hash: 752a149dd5fd5d30a8ee2a248aa5c2a7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ARManager
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: dfc99f9b0fa1ffddcc8468335fac35a6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: PasswordTextDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 63d7b9b64a11859f416d72ba9a3c3fec
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ScreenSpaceReflections
+  - hash:
+      serializedVersion: 2
+      Hash: bbaf0111151a677d0909ddcc4bd24fef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SmoothFollow
+  - hash:
+      serializedVersion: 2
+      Hash: c7f7049563b001659ef306f69062d500
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: HardVolumeControllerWithToast
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SM_ARManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 4e25b58c43b0471b515a0258a13a344d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SelectDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 6b49ce2a6f6a191f610f303492c6f05d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainScene_UI1_test
+  - hash:
+      serializedVersion: 2
+      Hash: cea7a2f42e31396d2ddb866b265cdc44
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: MediaScannerController
+  - hash:
+      serializedVersion: 2
+      Hash: 38bcb4d3f9a1812fd650f92e87a4cf64
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessProfile
+  - hash:
+      serializedVersion: 2
+      Hash: 0ed2f28b1576a540cd29bdc18f504c5d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CamRotate
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: d3e6d9e4d39184ee53fc15ab085d384a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SM_Game_Timer
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: b00771dd47fb9682a2c6bc3b7c0a2c87
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: CustomDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: e82c0521cdfe8cb6a168ef7208a98d4a
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Vignette
+  - hash:
+      serializedVersion: 2
+      Hash: c748ffce5ddec46536e9fed51fc92aba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DeviceCredentialsTest
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PermissionsRationaleDialog
+  - hash:
+      serializedVersion: 2
+      Hash: 8574ff9a938b3190fe0ec896a22ecc31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpeechRecognizerTest3
+  - hash:
+      serializedVersion: 2
+      Hash: 7f5c55cb7b3151ce240452eb85500d32
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPlaneManager
+  - hash:
+      serializedVersion: 2
+      Hash: aaaf03a60e7dd1f0cfb8c3b08665f405
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ManageOverlayPermissionController
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: c827c9717859963924fbb0fb4b6daf12
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PuzzleFramePiece
+  - hash:
+      serializedVersion: 2
+      Hash: 2bec9a460b3b169e600e1d7d12f357a8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: PressureSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 30666714012ff407922e4e8d432a1dd7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: PinchInput
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 471f4587999bf8f51b170cf8acd47fce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SignificantMotionController
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARAnchor
+  - hash:
+      serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 1d0beb1a2d4edee4c06b6835632e83a3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_AutoStopLoopedEffect
+  - hash:
+      serializedVersion: 2
+      Hash: 21d8e0db8c0455579b19e75487b550a7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PuzzleFrame
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 710078f7ccdd5849fc8f73fcfe048f07
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: GravitySensorController
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX.Scripts
+    className: MfxControllerEditor
+  - hash:
+      serializedVersion: 2
+      Hash: 8e1b57ed627094f6611406dcc8b40cd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageSaveTextController
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 456a531b6be6d0730a8f862a8ef32927
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: DeviceCredentialsController
+  - hash:
+      serializedVersion: 2
+      Hash: 8869ef5de2dd407f41c4db28929aab82
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ClassicMoveSample
+  - hash:
+      serializedVersion: 2
+      Hash: 6460a647d989ceb601e7fe671636bcbe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageOpenImageController
+  - hash:
+      serializedVersion: 2
+      Hash: dc2eeeb909237d46134bffea0e788d7c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ExternalStorageTest
+  - hash:
+      serializedVersion: 2
+      Hash: e8733e39efa851172df1c9eaef062265
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPlane
+  - hash:
+      serializedVersion: 2
+      Hash: cfa5028bd292d2e3bee5900c9abc0de5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: VolumeSliderDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 399fa0dee1a1c65bd50fa147bebbb17b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX
+    className: RayCastShoot
+  - hash:
+      serializedVersion: 2
+      Hash: 9b5ee3377aa365bd690f7c16513df2e4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: APPTutorial
+  - hash:
+      serializedVersion: 2
+      Hash: e260f13cb59d70d09f28897dab7ecfc9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AppInstallCheckController
+  - hash:
+      serializedVersion: 2
+      Hash: 31d685daa0cd87a15da4d912dafd8765
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WorkPositon_Manager
+  - hash:
+      serializedVersion: 2
+      Hash: cc8662ebb76ac3f4400c1a2a5a84676e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: MarketSearchController
+  - hash:
+      serializedVersion: 2
+      Hash: 8034d1c7c3a3b7becf15b9fd5b6e9eaa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: OKDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 6a1fb5a8b78f9c7ef9a0acca6762c258
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PluginTest
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MoveSample
+  - hash:
+      serializedVersion: 2
+      Hash: 7e6ed836cbaa230e56d6a2bbae1b9bb5
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessEffectSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 8edcf56a73556e52a727ebb32cb3c0c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SM_Puzzle_Parent
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: bdec249a0d3604890d1bfe7e4c9898fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SpeechRecognizerDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 3bcece7138dde8d4f887093b733c13c4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SceneLoadWithKey
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wookgalltest
+  - hash:
+      serializedVersion: 2
+      Hash: 497563a3f0d03604ddf829c6f13892b9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AppExitWithToast
+  - hash:
+      serializedVersion: 2
+      Hash: 796a7a2666942424eecbdcb16bf2d3df
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ObjectArrangeTool
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WK_GameTapping
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARFace
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: e19f3299a7e2d231644070487e17fca4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: QRCodeScannerController
+  - hash:
+      serializedVersion: 2
+      Hash: 735ac27559c64485d48ca90a84738433
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IntroManager
+  - hash:
+      serializedVersion: 2
+      Hash: a2d45ae6df0a10c85fd20bb5edf13345
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JobSwithcer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARCore.dll
+    namespaceName: UnityEngine.XR.ARCore
+    className: ARCoreLoader
+  - hash:
+      serializedVersion: 2
+      Hash: 617c9611b9f1482d80b96ad2dc495e79
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LongClickEventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8a1c169be48fdbd97af50178fd6b9560
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PluginTest2
+  - hash:
+      serializedVersion: 2
+      Hash: 1268406d3f2e4b2c2b670b560b6db769
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: AREnvironmentProbeManager
+  - hash:
+      serializedVersion: 2
+      Hash: 0dcb8d46ba962f1ec8b69d99e2f6ce70
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: CpuRateController
+  - hash:
+      serializedVersion: 2
+      Hash: 61b9d9b6f4b6a222dfea8b131b3d3227
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: ChromaticAberration
+  - hash:
+      serializedVersion: 2
+      Hash: 581a7cbfd47762df177fc288fef72d0c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_ARMarkerImageManager
+  - hash:
+      serializedVersion: 2
+      Hash: 439f00490f3d9662daab438aca3e3002
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ToggleObject
+  - hash:
+      serializedVersion: 2
+      Hash: a3e6c1f0835ae42c1f14bad0ba361e33
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX
+    className: DemoPrefabController
+  - hash:
+      serializedVersion: 2
+      Hash: 4d6854194d08cc85b3720e2a9e92c54a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX.Scripts
+    className: MfxController
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARParticipant
+  - hash:
+      serializedVersion: 2
+      Hash: 4cd020b8cd3ba823e08db9b44480c8f4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WK_RotateOBJ
+  - hash:
+      serializedVersion: 2
+      Hash: be2274be155952e59ec78fdf37dcffdb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SwipeInput
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ApplicationDetailsSettingsController
+  - hash:
+      serializedVersion: 2
+      Hash: 3db7ae1cd31a9f36533263993d5d2f01
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PositionsSelf
+  - hash:
+      serializedVersion: 2
+      Hash: aaaf03a60e7dd1f0cfb8c3b08665f405
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ManageWriteController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MicrophoneTest
+  - hash:
+      serializedVersion: 2
+      Hash: ba4fe0029b06efada5b44ecbeb4ad943
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AccelerometerSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPlaneMeshVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: bcd711eab66347ecac1af02c3bf756cf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WK_DabotopGame
+  - hash:
+      serializedVersion: 2
+      Hash: ef705ae677d649d6c0ff3b4060963abd
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARTrackedObjectManager
+  - hash:
+      serializedVersion: 2
+      Hash: 85570b9be47278f1641bde06a9238b58
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: YesNoDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 4aac268d7e435f7a65add91aaba819a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_Demo_RandomDir
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARBackgroundRendererFeature
+  - hash:
+      serializedVersion: 2
+      Hash: d52481fa09ee1a68fa8215449903e11a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: PermissionCheckController
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARCore.dll
+    namespaceName: UnityEngine.XR.ARCore
+    className: ARCoreLoaderSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SCManager
+  - hash:
+      serializedVersion: 2
+      Hash: 3f5031037e63abe5dcf87c278e01a4de
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_Demo_RotateCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 37361c125134ab38731bb27c74078318
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib.Example
+    className: EasyMusicPlayer
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Discripts_AnimContorlls
+  - hash:
+      serializedVersion: 2
+      Hash: 157085fbf22cee23d514f39055b31ec5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: BatteryStatusController
+  - hash:
+      serializedVersion: 2
+      Hash: cb8c49f14e4322999104db860b5be4a4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_FaceController
+  - hash:
+      serializedVersion: 2
+      Hash: 80694c14297472dac84fb121eae862bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: DialogItemParameter
+  - hash:
+      serializedVersion: 2
+      Hash: 6d6f4c5f44329e82f6dea33dab808c9c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextToSpeechTest3
+  - hash:
+      serializedVersion: 2
+      Hash: 5d27c6e85ec89cfab8577e9e26695e88
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_AutoDestructShuriken
+  - hash:
+      serializedVersion: 2
+      Hash: d6fc8d3165070298511ec776ea575626
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessResources
+  - hash:
+      serializedVersion: 2
+      Hash: 415170949de0812a097eedecd45e8cf3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextToSpeechTest
+  - hash:
+      serializedVersion: 2
+      Hash: 46f87eb90a0f8e7ebbeffd02200bd495
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_STAMP_Manager
+  - hash:
+      serializedVersion: 2
+      Hash: 4b0111bd725c1b5be4f5dd567a42f4b9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PluginTest3
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPointCloud
+  - hash:
+      serializedVersion: 2
+      Hash: a53651ee3996fbba20dfe0fce02f0b23
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: AutoExposure
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: c14f30e93182ceaf2bba7ea038cdcb38
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LongKeyInput
+  - hash:
+      serializedVersion: 2
+      Hash: 6b49ce2a6f6a191f610f303492c6f05d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainScene_UI
+  - hash:
+      serializedVersion: 2
+      Hash: 6db8f2607ed6079ac42ac5a6adbfb3df
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpeechRecognizerTest2
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MarkerImages
+  - hash:
+      serializedVersion: 2
+      Hash: 660deb0ce569359218f0ba85b7ce0e3a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_LightIntensityFade
+  - hash:
+      serializedVersion: 2
+      Hash: ac9b93161a3e86de9704112e7d9a5312
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX
+    className: MfxAutomaticRayCastSource
+  - hash:
+      serializedVersion: 2
+      Hash: 3a23a43dffd17267183d65f60ee2b03f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WK_RotateDabotop
+  - hash:
+      serializedVersion: 2
+      Hash: 50c443b12ccc0b475183318b5088bcc5
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessDebug
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 829b4871aece429c1a3301c458261e44
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: TextToSpeechController
+  - hash:
+      serializedVersion: 2
+      Hash: 25946758e4aaa15e3379d870e71105fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SpeechRecognizerController
+  - hash:
+      serializedVersion: 2
+      Hash: de2698ba05ef6c599641dfa46ac19686
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_ARCamManager
+  - hash:
+      serializedVersion: 2
+      Hash: 6460a647d989ceb601e7fe671636bcbe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageOpenAudioController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wookgetPictest
+  - hash:
+      serializedVersion: 2
+      Hash: 735ac27559c64485d48ca90a84738433
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FadeINUI
+  - hash:
+      serializedVersion: 2
+      Hash: 4f1c6068902505bd0b97c5c607053677
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoadingGauge
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARFaceMeshVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 6f6ed6726e167c6da894b5a0feb4493f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FaceController
+  - hash:
+      serializedVersion: 2
+      Hash: 98eafa1f7b57c9f820b3a55cab0f40c9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageOpenFolderController
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: bcd0d23dbfa34799bb956362b41817ba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: JobMoveSample
+  - hash:
+      serializedVersion: 2
+      Hash: 0535c7e7c34dd1cdfc5b1f8ffce1aebe
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARTrackedImageManager
+  - hash:
+      serializedVersion: 2
+      Hash: dad3a1f1e1ecb4691721bab721edd60a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_AutoRotate
+  - hash:
+      serializedVersion: 2
+      Hash: 18c9b2371af16144f74b1b269ba7ae5a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: NumericTextDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPointCloudParticleVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARHumanBody
+  - hash:
+      serializedVersion: 2
+      Hash: ed0867b28a39125027cb3a6e08c40c0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ClassicMove
+  - hash:
+      serializedVersion: 2
+      Hash: 491368bbd2a62830c003916303dad946
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LightSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 26a8e1fda1f1bae1a1d2c4f6fa98ffc9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: WebSearchController
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 0c5108545fb925730d4d5887ebcdd20c
+    assemblyName: Unity.XR.ARSubsystems.dll
+    namespaceName: UnityEngine.XR.ARSubsystems
+    className: XRReferenceObjectLibrary
+  - hash:
+      serializedVersion: 2
+      Hash: 6460a647d989ceb601e7fe671636bcbe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageOpenFileController
+  - hash:
+      serializedVersion: 2
+      Hash: 565bf56f29805119c1c0376a788e57da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: OrientationSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 625e4fd6f88b90d1ee9e7c089c3f450d
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARSession
+  - hash:
+      serializedVersion: 2
+      Hash: 421b20ccd7815ebee5e2b14a986d2efc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_Demo_New
+  - hash:
+      serializedVersion: 2
+      Hash: 3321356177a129aee4a6199276516508
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SingleLineTextDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: c96bad851dcf4a9ddfdb34fa94e25b9a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SwipeEventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 6e025c41abb8870bd856f5d99d9bc3be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageLoadTextController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TestMove
+  - hash:
+      serializedVersion: 2
+      Hash: 415e2ee6961b00067884ac53b863ccd5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: YesNoWithCheckBoxDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 26d48ea15dbc86a51ddf8d8c5f023697
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_Ssirm_AudioPlay
+  - hash:
+      serializedVersion: 2
+      Hash: 493d79ec85729792cc2154a065e19ee7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AndroidActionController
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARRaycast
+  - hash:
+      serializedVersion: 2
+      Hash: 134e48a5f9e8b175475c03092817ada8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: XDebug
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX
+    className: SimpleFpsController
+  - hash:
+      serializedVersion: 2
+      Hash: 1d9b53318825332126b0fd6da2d962fb
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARAnchorManager
+  - hash:
+      serializedVersion: 2
+      Hash: 18500e4b2dc0ad391ce45b3b19b7e70f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SM_Puzzle
+  - hash:
+      serializedVersion: 2
+      Hash: 478a1ef80a3d32e7b17fe929767bb06c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SavedCheckedSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARTrackedImage
+  - hash:
+      serializedVersion: 2
+      Hash: 7c4a604481dcaf800a611ea7ca7636c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SpeechRecognizerTest
+  - hash:
+      serializedVersion: 2
+      Hash: 4932a33f7f2b219df52087fef057c9ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: HardVolumeController
+  - hash:
+      serializedVersion: 2
+      Hash: 37a13922678947e6d144f41a7195154a
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARCameraManager
+  - hash:
+      serializedVersion: 2
+      Hash: d1e597bda18637bbaa2565f4a5448e85
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_Touch
+  - hash:
+      serializedVersion: 2
+      Hash: 24c74cc0d527a06113f2b967042769f0
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEditor.XR.LegacyInputHelpers
+    className: CameraOffset
+  - hash:
+      serializedVersion: 2
+      Hash: 753729a7f7602cba4f7276720dc17fee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LocalizeStringResource
+  - hash:
+      serializedVersion: 2
+      Hash: ff7f58b226cfe4de0dc241bd88d5a904
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 6460a647d989ceb601e7fe671636bcbe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageOpenVideoController
+  - hash:
+      serializedVersion: 2
+      Hash: d39905ff8fda75afed4d688761c322e1
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARFaceManager
+  - hash:
+      serializedVersion: 2
+      Hash: 3337e995b94f5563b5ba56afcbf847be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StepCounterSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RotateSample
+  - hash:
+      serializedVersion: 2
+      Hash: 16dacd04869a876ea4bea0d1d2e77e34
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPointCloudManager
+  - hash:
+      serializedVersion: 2
+      Hash: 77fa258a08c4a1ec5eae7ebda56772c5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: GameRotationVectorSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 7dabaed572dcf3727a1c11cbdc689130
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StationaryDetectController
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: ebbbffe488f89f8f09f075e0407e51c0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: OKWithCheckBoxDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 68d4434fe762af6142d08bbeb129eea8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: GyroscopeSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 83cce077d6b4113ec62d410f658cf34e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: RotationVectorSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: d4abcf3d0c32a0a8f869315956be57ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CrafterControllerFREE
+  - hash:
+      serializedVersion: 2
+      Hash: e1c35cdce946e9da77fe80a39c261608
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARSessionOrigin
+  - hash:
+      serializedVersion: 2
+      Hash: 40078b1e497e4371fff9e765b47530db
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SingleChoiceDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: f7f6b490644618977a60c3b69d94bc31
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: NotificationController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LookRotateCamera
+  - hash:
+      serializedVersion: 2
+      Hash: 299d7c14eac49cb1c710d151804e7545
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: Screenshot
+  - hash:
+      serializedVersion: 2
+      Hash: 3263666d45db0bd77095000858f068d9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: XGizmo
+  - hash:
+      serializedVersion: 2
+      Hash: bb90a0f09abc0d0c6fcc3d6b223c83e1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SliderDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 8ec896ea7eaadbb9928296236c8665f1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: CpuRateBar
+  - hash:
+      serializedVersion: 2
+      Hash: de8c2a257a183731115d08b34b7bd746
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: AROcclusionManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Dabotop_Discrips
+  - hash:
+      serializedVersion: 2
+      Hash: 4475aa6accfcdbd92a5738ac80491b24
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GalleryPickTest
+  - hash:
+      serializedVersion: 2
+      Hash: b189bf1e5b9ebafb13ae40c3da00a858
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LocalizeText
+  - hash:
+      serializedVersion: 2
+      Hash: d851aa9fbe4ec7ba29f3b6c5e9a396e1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Wook_Game_Different
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARPointCloudMeshVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: b1c05ae9e75ce74a9defbba57c122e94
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GalleryPickTest2
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARTrackedObject
+  - hash:
+      serializedVersion: 2
+      Hash: 74a5a442331f5a50ec2a0ab32058d3fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LocalizeLanguageChanger
+  - hash:
+      serializedVersion: 2
+      Hash: e340d8df9c906bc5008ff3be5b94010c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SensorTest
+  - hash:
+      serializedVersion: 2
+      Hash: c3aa0d55d5d50b8aab6a05fc51196180
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: VibratorController
+  - hash:
+      serializedVersion: 2
+      Hash: 67155d3040fac664e18f970ae947d4c7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: LowLatencyOffbodyDetectController
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: feb9041790ee03863b736383d43d7864
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: ToastController
+  - hash:
+      serializedVersion: 2
+      Hash: 2bd98acc36e500a0c251cdb5d45d0a74
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_SwitchCam
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 62460aa4ee132b1770b3f8e798ecec5f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: FpsText
+  - hash:
+      serializedVersion: 2
+      Hash: 997f89b6b0b658a143e8dcb10787e892
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wook_testP
+  - hash:
+      serializedVersion: 2
+      Hash: 450ef1af5a230a64187675474b02a3e2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: GalleryPickController
+  - hash:
+      serializedVersion: 2
+      Hash: 99c2da75b7fee821c344395bc0b62b98
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARInputManager
+  - hash:
+      serializedVersion: 2
+      Hash: f0b4308155a1cb9ed56c87a0c1240ded
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoSwitcher
+  - hash:
+      serializedVersion: 2
+      Hash: 1bc03a501323d00d0037a6b76d25a3ba
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARMeshManager
+  - hash:
+      serializedVersion: 2
+      Hash: e70e7b311a1620c2e899545b2e1fdfae
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CFX_Demo_RandomDirectionTranslate
+  - hash:
+      serializedVersion: 2
+      Hash: 8503f43887355dd3c301d949a8c86026
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: MotionDetectController
+  - hash:
+      serializedVersion: 2
+      Hash: d0e17defb4b00d5db81af6185c74e72f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: WifiSettingController
+  - hash:
+      serializedVersion: 2
+      Hash: 0c67c33fe341116ae41ec25d977cdb4c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Demo
+  - hash:
+      serializedVersion: 2
+      Hash: 235a1e8275c5d1ab2a1c0f017d90e1b5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: wookSCtest
+  - hash:
+      serializedVersion: 2
+      Hash: 2688fd5cfce48225a6483a8a5939bd50
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StoneWorkMan_FSM
+  - hash:
+      serializedVersion: 2
+      Hash: d5630f96bd5a6a6eed7e1754c3fb8703
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: PostProcessVolume
+  - hash:
+      serializedVersion: 2
+      Hash: 7f630a561915b49c51135be90c01fb86
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: TimePickerController
+  - hash:
+      serializedVersion: 2
+      Hash: 40138c3849e7459d6a67c04c3bc77563
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX
+    className: DemoInputConrtoller
+  - hash:
+      serializedVersion: 2
+      Hash: d0987ce3e9092dbe0fa30d73f333fffa
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: Grain
+  - hash:
+      serializedVersion: 2
+      Hash: 53163a8e5fb85ee75fae8a6604d24257
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: MagneticFieldSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX
+    className: MfxAutomatic
+  - hash:
+      serializedVersion: 2
+      Hash: cbe6deff75fc0987595a61e9510f7917
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARCameraBackground
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: ac6acd886c54c48c599ab5fed5781ea7
+    assemblyName: Unity.Postprocessing.Runtime.dll
+    namespaceName: UnityEngine.Rendering.PostProcessing
+    className: AmbientOcclusion
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Tutorial_FinalButton
+  - hash:
+      serializedVersion: 2
+      Hash: f595d5263259a530daafb6956bb30633
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: MultiLineTextDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 9d833d29540fead3670ad0e7be3cf1fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: SwitchDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 62460aa4ee132b1770b3f8e798ecec5f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: BatteryTemperatureText
+  - hash:
+      serializedVersion: 2
+      Hash: 9f22d567a9ee82961fc253dd1197ecd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: DatePickerController
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 54cd37c0bd851cb307043a8dae305476
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: CpuRateBarsView
+  - hash:
+      serializedVersion: 2
+      Hash: dfe3e3b2888b0ff27f9c96fba6d76884
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: GeomagneticRotationVectorSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: 01473135d671a71d740e507b04eb93da
+    assemblyName: Unity.XR.ARSubsystems.dll
+    namespaceName: UnityEngine.XR.ARSubsystems
+    className: XRReferenceImageLibrary
+  - hash:
+      serializedVersion: 2
+      Hash: 524a8f7c9b60f50a1c6bbe7185c0207e
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: ARHumanBodyManager
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 290afc8da8e459e0b8dc7444bfaf5e35
+    assemblyName: Unity.XR.ARFoundation.dll
+    namespaceName: UnityEngine.XR.ARFoundation
+    className: AREnvironmentProbe
+  - hash:
+      serializedVersion: 2
+      Hash: 9f794f3d04778b7ef14bd314a0b601f4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: MultiChoiceDialogController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab9295d94483c961936d82d233d3df2
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRManagerSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 74d41010a3f0360f2ed5f009bf31e2ef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: DialerController
+  - hash:
+      serializedVersion: 2
+      Hash: 4ef0f7d42cdb13479386e1f049c315aa
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 0a57a1215d99ab2d538ff3cf786d8769
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AppExitWithKey
+  - hash:
+      serializedVersion: 2
+      Hash: 2e2ee814c20902715f9eab74f6ab4166
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: OrientationStatusController
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 5b5096372c3387dc8259b603fbbde958
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: AndroidPluginRelease
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MusicPlayerTest
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 0d85f4fda1e0e70cd92c084d12f05cdc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: PinchToScale
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: d2c8809f9380cbe798945442c504a640
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VolumeUI
+  - hash:
+      serializedVersion: 2
+      Hash: d7e4f58898702913b3b051660a9a71dd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Assets.MaterializeFX
+    className: MouseOrbitController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: stamptest
+  - hash:
+      serializedVersion: 2
+      Hash: 27f4c1387bdaf92fd5390abb423a0ed4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AndroidSettingsTest2
+  - hash:
+      serializedVersion: 2
+      Hash: 555c69561cf2d1cf65f3e95a043fe8e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StorageSaveFileController
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 8271056fb210b3e28ccf9ead92f448e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CustomDialogTest
+  - hash:
+      serializedVersion: 2
+      Hash: 6afb286cdaa167ca2bc85a34d63a81f3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TextEditTest
+  - hash:
+      serializedVersion: 2
+      Hash: 1222731a3e2a4b4359dc6bc155a5e559
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: BluetoothSettingController
+  - hash:
+      serializedVersion: 2
+      Hash: 8487def2610df3c78851f107264fe08a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: FantomLib
+    className: StepDetectorSensorController
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 13
+  scenePathNames:
+  - Assets/Rally_Folder/Rally_Scenes/Rally_MarkerCameraScene.unity
+  - Assets/Rally_Folder/Rally_Scenes/Rally_Main_Scene.unity
+  - Assets/Rally_Folder/Rally_Scenes/Rally_GameScene.unity
+  playerPath: D:/Build/AR_Museum Build Foulder.apk
